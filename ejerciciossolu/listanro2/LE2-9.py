@@ -1,6 +1,7 @@
 # 9.en el archivo https://github.com/gianzk/python0223/blob/main/clase0503/ejercicio1.py
 # agregar funcionalida para las siguientes funciones:
 # -AgregarProducto
+# -CambiarStock
 ### Minisistema
 roles=['admin','vendedor','inventario']
 
